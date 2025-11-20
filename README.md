@@ -50,9 +50,15 @@ Just one LLM call → one tool call → direct response.
 ### 📈 Future Improvements
 
 Feel free to extend this project with:
+
 Multi-source news (Google News RSS, DuckDuckGo, Bing)
+
 Automatic tool execution (no manual run())
+
 Summaries using Gemini
+
 A Streamlit dashboard
+
 Topic auto-classification
+
 Chat-style conversational history
